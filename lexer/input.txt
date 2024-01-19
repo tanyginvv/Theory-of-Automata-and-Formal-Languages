@@ -1,0 +1,30 @@
+
+struct Struct1 
+{
+    int index;
+}
+int main   // Hello comment 2
+{
+.2. 2. 3a
+    return 0;
+    a=b
+    1h;
+    'fd';
+// Hello comment
+"aaaaaaaaaaaaaaaaaaaaaaaaa
+  "fdjffdkfdj"
+
+
+
+.
+  12 12.5 12,5
+	12..
+12.5.5
+ /*jbhjcdbc*/
+'
+"
+}
+/*
+d
+d
+a

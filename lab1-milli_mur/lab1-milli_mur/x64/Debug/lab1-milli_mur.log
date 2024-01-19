@@ -1,0 +1,4 @@
+﻿  lab1-milli_mur.cpp
+C:\Users\79027\Desktop\lab1-milli_mur\lab1-milli_mur\lab1-milli_mur.cpp(216,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79027\Desktop\lab1-milli_mur\lab1-milli_mur\lab1-milli_mur.cpp(288,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  lab1-milli_mur.vcxproj -> C:\Users\79027\Desktop\lab1-milli_mur\x64\Debug\lab1-milli_mur.exe

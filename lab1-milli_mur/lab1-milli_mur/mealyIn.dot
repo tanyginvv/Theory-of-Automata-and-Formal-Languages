@@ -1,0 +1,29 @@
+digraph G {
+	s0 -> s1 [label="x1/y0"];
+	s1 -> s0 [label="x1/y1"];
+	s2 -> s0 [label="x1/y1"];
+	s3 -> s7 [label="x1/y0"];
+	s4 -> s5 [label="x1/y1"];
+	s5 -> s7 [label="x1/y0"];
+	s6 -> s5 [label="x1/y1"];
+	s7 -> s3 [label="x1/y1"];
+	s8 -> s6 [label="x1/y0"];
+	s0 -> s3 [label="x2/y1"];
+	s1 -> s0 [label="x2/y0"];
+	s2 -> s5 [label="x2/y0"];
+	s3 -> s0 [label="x2/y1"];
+	s4 -> s3 [label="x2/y1"];
+	s5 -> s8 [label="x2/y1"];
+	s6 -> s0 [label="x2/y1"];
+	s7 -> s3 [label="x2/y0"];
+	s8 -> s8 [label="x2/y1"];
+	s0 -> s3 [label="x3/y1"];
+	s1 -> s4 [label="x3/y0"];
+	s2 -> s4 [label="x3/y0"];
+	s3 -> s0 [label="x3/y1"];
+	s4 -> s2 [label="x3/y0"];
+	s5 -> s5 [label="x3/y1"];
+	s6 -> s2 [label="x3/y0"];
+	s7 -> s6 [label="x3/y0"];
+	s8 -> s6 [label="x3/y1"];
+}

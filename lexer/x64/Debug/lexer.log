@@ -1,0 +1,4 @@
+﻿  lexer.cpp
+C:\Users\79027\Desktop\TAaFL\lexer\lexer.cpp(181,39): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79027\Desktop\TAaFL\lexer\lexer.cpp(142): warning C4715: MakeToken: значение возвращается не при всех путях выполнения
+  lexer.vcxproj -> C:\Users\79027\Desktop\TAaFL\lexer\x64\Debug\lexer.exe

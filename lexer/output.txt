@@ -1,0 +1,42 @@
+struct --- Keyword --- line 1 --- position 1
+Struct1 --- Identifier --- line 1 --- position 8
+{ --- Separator --- line 2 --- position 1
+int --- Type --- line 3 --- position 5
+index --- Identifier --- line 3 --- position 9
+; --- Separator --- line 3 --- position 14
+} --- Separator --- line 4 --- position 1
+// Hello comment 2 --- Comment --- line 5 position 12
+int --- Type --- line 5 --- position 1
+main --- Identifier --- line 5 --- position 5
+{ --- Separator --- line 6 --- position 1
+.2. --- Error --- line 7 --- position 1
+2. --- Float --- line 7 --- position 5
+3a --- Error --- line 7 --- position 8
+return --- Keyword --- line 8 --- position 5
+0 --- Number --- line 8 --- position 12
+; --- Separator --- line 8 --- position 13
+a --- Identifier --- line 9 --- position 5
+= --- Assignment operator --- line 9 --- position 6
+b --- Identifier --- line 9 --- position 7
+1h --- Error --- line 10 --- position 5
+; --- Separator --- line 10 --- position 7
+'fd' --- Error --- 11 --- position 5
+; --- Separator --- line 11 --- position 9
+// Hello comment --- Comment --- line 12 position 1
+"aaaaaaaaaaaaaaaaaaaaaaaaa --- ERROR - Unclosed Double Quote --- line 13 --- position 1
+"fdjffdkfdj" --- String --- line 14 --- position 3
+. --- Number --- line 15 --- position 1
+12 --- Number --- line 16 --- position 3
+12.5 --- Float --- line 16 --- position 6
+12 --- Number --- line 16 --- position 11
+, --- Separator --- line 16 --- position 13
+5 --- Number --- line 16 --- position 15
+	12.. --- Error --- 17 --- position 1
+12.5.5 --- Error --- line 18 --- position 1
+/*jbhjcdbc*/ --- Comment --- line 19 --- position 2
+' --- ERROR - Unclosed Single Quote --- line 20 --- position 1
+" --- ERROR - Unclosed Double Quote --- line 21 --- position 1
+} --- Separator --- line 22 --- position 1
+/* --- Comment --- line 23 --- position 1
+ERROR - Unclosed multiline comment 
+EOF --- End of File

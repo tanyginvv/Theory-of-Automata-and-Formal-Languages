@@ -1,0 +1,14 @@
+digraph G {
+	s0 -> s2 [label="x1/y2"];
+	s1 -> s0 [label="x1/y1"];
+	s2 -> s0 [label="x1/y1"];
+	s3 -> s0 [label="x1/y1"];
+	s4 -> s2 [label="x1/y2"];
+	s5 -> s1 [label="x1/y1"];
+	s0 -> s5 [label="x2/y1"];
+	s1 -> s1 [label="x2/y1"];
+	s2 -> s1 [label="x2/y1"];
+	s3 -> s1 [label="x2/y1"];
+	s4 -> s5 [label="x2/y1"];
+	s5 -> s4 [label="x2/y2"];
+}
